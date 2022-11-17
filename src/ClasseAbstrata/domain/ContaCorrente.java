@@ -1,4 +1,4 @@
-package ClasseAbstrata;
+package ClasseAbstrata.domain;
 
 public class ContaCorrente {
     private double valor = 0d;
@@ -7,7 +7,6 @@ public class ContaCorrente {
     public void executarOperacao(Operacao opr){
         setSaldo(this.saldo+(opr.operar(valor)));
     }
-
     public double getSaldoAtual() {
         return saldo;
     }

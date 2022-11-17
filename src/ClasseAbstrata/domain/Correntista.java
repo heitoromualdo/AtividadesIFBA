@@ -1,4 +1,4 @@
-package ClasseAbstrata;
+package ClasseAbstrata.domain;
 
 public class Correntista {
     private String nome;

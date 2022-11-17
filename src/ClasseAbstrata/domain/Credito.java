@@ -1,4 +1,4 @@
-package ClasseAbstrata;
+package ClasseAbstrata.domain;
 
 public class Credito extends Operacao{
 

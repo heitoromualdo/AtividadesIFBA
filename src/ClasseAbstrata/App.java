@@ -1,5 +1,9 @@
 package ClasseAbstrata;
 
+import ClasseAbstrata.domain.Banco;
+import ClasseAbstrata.domain.ContaCorrente;
+import ClasseAbstrata.domain.Correntista;
+
 public class App {
     public static void main(String[] args) {
         ContaCorrente contaCorrente1 = new ContaCorrente();

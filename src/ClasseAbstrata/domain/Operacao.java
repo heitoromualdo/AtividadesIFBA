@@ -1,4 +1,4 @@
-package ClasseAbstrata;
+package ClasseAbstrata.domain;
 
 public abstract class Operacao {
     protected double valor;
